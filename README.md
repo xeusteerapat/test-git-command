@@ -73,5 +73,18 @@ app.listen(port, () => console.log(`Example app listening on port ${port}!`))
 
 Why not?
 
-# Emoji
-:smirk:
+# 5. Emoji
+
+:smirk: :shit: :shit: :shit: :shit:
+
+# 6. Table
+
+| Browser | Compatibility |
+| ------- | ------------- |
+| Chrome  | Good          |
+| Firefox | Good          |
+| MS Edge | Great         |
+| Opera   | Meh           |
+| Safari  | Meh           |
+| IE      | Get lost      |
+
