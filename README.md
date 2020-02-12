@@ -18,3 +18,27 @@ dfsdfsdfsdfsdfsdfsdfsdfsdf
 - just
 - a
 - test
+
+# Links
+
+[Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+
+[Markdown cheat sheet (devhints)](https://devhints.io/markdown)
+
+# Bold
+
+**test**  
+
+# Italic
+
+*text*
+
+# Blockquotes
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+
+# Horizon rules  
+
+***
+___
+
