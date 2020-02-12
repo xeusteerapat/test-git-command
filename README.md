@@ -75,7 +75,7 @@ Why not?
 
 # 5. Emoji
 
-:smirk: :shit: :shit: :shit: :shit:
+:smirk: :shit: :shit: :shit: :shit: :satisfied: :satisfied: :satisfied:
 
 # 6. Table
 
